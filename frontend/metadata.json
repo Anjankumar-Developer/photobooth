@@ -1,0 +1,7 @@
+{
+  "name": "Aesthetic Photo Booth",
+  "description": "An online aesthetic photo booth with filters, frames, and stickers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
